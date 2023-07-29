@@ -20,6 +20,8 @@ Todos os detalhes de construção do projeto você encontra [aqui](https://githu
 * Docker
 * Postgres SQL
 
+## Resultado da consulta no banco de dados
+![banco](https://github.com/will-rds/desafio_pipeline_indicium/blob/main/consulta_banco.PNG)
 
 #### Autor
 Willian Ribeiro dos Santos
