@@ -23,4 +23,5 @@ Todos os detalhes de construção do projeto você encontra [aqui](https://githu
 
 #### Autor
 Willian Ribeiro dos Santos
+
 [**Linkedin**](https://www.linkedin.com/in/willian-ribeiro-7b02b7141/)
