@@ -21,3 +21,7 @@ Todos os detalhes de construção do projeto você encontra [aqui](https://githu
 * Postgres SQL
 
 
+#### Autor
+Willian Ribeiro dos Santos
+
+https://www.linkedin.com/in/willian-ribeiro-7b02b7141/
