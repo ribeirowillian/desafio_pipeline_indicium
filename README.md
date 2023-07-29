@@ -9,6 +9,8 @@ A idéia é construir um pipeline de dados utilizando duas fontes, um banco de d
 
 Todos os detalhes de construção do projeto você encontra [aqui](https://github.com/will-rds/desafio_pipeline_indicium/blob/main/descrevendo_os_passos.ipynb)
 
+O desafio original você encontra clicando [aqui](https://github.com/techindicium/code-challenge/tree/main)
+
 ## Tecnologias utilizadas
 
 ### Linguagens
