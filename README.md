@@ -27,4 +27,5 @@ O desafio original encontra-se [aqui](https://github.com/techindicium/code-chall
 
 #### Autor
 Willian Ribeiro dos Santos
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-ribeiro-7b02b7141/) 
